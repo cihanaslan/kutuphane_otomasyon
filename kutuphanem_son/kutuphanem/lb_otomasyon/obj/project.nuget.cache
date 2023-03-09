@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VJJzdUbB7V/j+BGe+pvpK86cVaZZcKyd7ek/a2AUPT61HaBWbBl8WEqjjlvKmQYjxImiolAn+bWZjm3eOOvZvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CİHAN\\Desktop\\kutuphanem_son\\kutuphanem\\lb_otomasyon\\lb_otomasyon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CİHAN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\CİHAN\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\CİHAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
